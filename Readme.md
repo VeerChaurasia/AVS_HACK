@@ -10,10 +10,6 @@ ZKprover as an Actively Validated Services(AVS) revolutionizes task verification
 ### How Operator gets registered 
 <img width="899" alt="Screenshot 2024-06-30 at 02 29 40" src="https://github.com/ABD-AZE/ZK_Prover_AVS/assets/142890355/17cd1503-a449-480b-917e-8545f724c870">
 
-
-
-## Project Video
-https://youtu.be/fT8hu4CCxL0
 ## Process Overview
 
 1. AVS consumer requests a Task to be generated and signed.
@@ -61,22 +57,7 @@ EigenLayer's Repo has a lot of smart contracts. Understanding each of them was n
 First we planned to use a complex circuit but we were facing issues while intergation due to the large input sizes for a more complex circuit. So instead we went ahead with using simpler circuits i.e. The Adder Circuit
 
 
-## Individual Contributions
 
-### Veer
-- Frontend
-
-- Backend
-
-- Modification and Integration of Smart Contracts
-
-### Abdullah
-
-- ZKproofs Integration with Operator
-
-- Modification and Integration of Smart Contracts
-
-- Bash scripting
 
 ## Learning
 - Our main aim was to build a ZK prover for a ZK roll up as an AVS. So in the initial phase of our project we also learned about roll up functioning and the problem with the prover being a centralized entity.
